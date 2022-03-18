@@ -1,9 +1,9 @@
 # camada_fisica
-simulação da camada fisíca de redes de computadores
+simulação da camada física de redes de computadores
 
 # Contexto
 
-consiste em simular como funciona a camada fisica de uma rede de computaroes, mostranda a coficicação binária, manchester e manchester diferencial
+consiste em simular como funciona a camada física de uma rede de computaroes, mostranda a coficicação binária, manchester e manchester diferencial
 
 ### Status do projeto: FINALIZADO
 
